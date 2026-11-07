@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/field.js": { "maxDuration": 10 },
+    "api/stats.js": { "maxDuration": 10 }
+  }
+}
